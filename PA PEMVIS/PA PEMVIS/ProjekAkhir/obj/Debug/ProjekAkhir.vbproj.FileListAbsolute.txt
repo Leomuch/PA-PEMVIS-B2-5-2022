@@ -1,0 +1,123 @@
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\posttest5\posttest5\bin\Debug\projekAkhir.exe.config
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\bin\Debug\projekAkhir.exe.config
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\bin\Debug\projekAkhir.exe
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\bin\Debug\projekAkhir.pdb
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\bin\Debug\projekAkhir.xml
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.Resources.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\projekAkhir.exe
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\projekAkhir.xml
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\projekAkhir.pdb
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.PendataanBarang.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.ModifikasiBarang.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.UpdateBarang.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.Login.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.Regis.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.DashboardUser.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.MenuAdmin.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.ListPesanan.resources
+D:\KULIAH\Semester 4\Pemrograman Visual\Projek Akhir\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.Keranjang.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\bin\Debug\projekAkhir.exe.config
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\projekAkhir.exe
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\projekAkhir.xml
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\projekAkhir.pdb
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\bin\Debug\projekAkhir.exe
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\bin\Debug\projekAkhir.pdb
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\bin\Debug\projekAkhir.xml
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.PendataanBarang.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.ModifikasiBarang.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.UpdateBarang.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.Login.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.Regis.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.DashboardUser.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.MenuAdmin.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.ListPesanan.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.Keranjang.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\_projekAkhir.Resources.resources
+C:\Users\ASUS\Documents\Projek Akhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.exe.config
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.exe
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.xml
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.pdb
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.exe
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.pdb
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.xml
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.PendataanBarang.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.ModifikasiBarang.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.UpdateBarang.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Login.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Regis.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.DashboardUser.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.MenuAdmin.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.ListPesanan.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Keranjang.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Resources.resources
+C:\Users\ASUS\Documents\Projek Akhirr\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Semester 4\PRAKTIKUM\PemVis\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.exe.config
+C:\Users\ASUS\Documents\Semester 4\PRAKTIKUM\PemVis\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.exe
+C:\Users\ASUS\Documents\Semester 4\PRAKTIKUM\PemVis\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.xml
+C:\Users\ASUS\Documents\Semester 4\PRAKTIKUM\PemVis\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.pdb
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.exe.config
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.exe
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.xml
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.pdb
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.exe
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.pdb
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.xml
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.PendataanBarang.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.ModifikasiBarang.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.UpdateBarang.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Login.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Regis.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.DashboardUser.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.MenuAdmin.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.ListPesanan.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Keranjang.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Resources.resources
+D:\Desktop\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.exe.config
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.exe
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.xml
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\projekAkhir.pdb
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.PendataanBarang.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.ModifikasiBarang.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.UpdateBarang.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Login.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Regis.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.DashboardUser.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.MenuAdmin.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.ListPesanan.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Keranjang.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\_projekAkhir.Resources.resources
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.exe
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.pdb
+C:\Users\ASUS\Downloads\Projek Akhirr\Projek Akhirr\Projek Akhirr\ProjekAkhir\bin\Debug\projekAkhir.xml
+C:\Users\ASUS\Documents\PA PEMVIS\ProjekAkhir\bin\Debug\projekAkhir.exe.config
+C:\Users\ASUS\Documents\PA PEMVIS\ProjekAkhir\obj\Debug\projekAkhir.exe
+C:\Users\ASUS\Documents\PA PEMVIS\ProjekAkhir\obj\Debug\projekAkhir.xml
+C:\Users\ASUS\Documents\PA PEMVIS\ProjekAkhir\obj\Debug\projekAkhir.pdb
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\bin\Debug\projekAkhir.exe.config
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\projekAkhir.exe
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\projekAkhir.xml
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\projekAkhir.pdb
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.PendataanBarang.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.ModifikasiBarang.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.UpdateBarang.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.Login.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.Regis.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.DashboardUser.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.MenuAdmin.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.ListPesanan.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.Keranjang.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\_projekAkhir.Resources.resources
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\bin\Debug\projekAkhir.exe
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\bin\Debug\projekAkhir.pdb
+C:\Users\ASUS\Documents\PA PEMVIS\PA PEMVIS\ProjekAkhir\bin\Debug\projekAkhir.xml
